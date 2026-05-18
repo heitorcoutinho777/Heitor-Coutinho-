@@ -1,4 +1,4 @@
-<h1 align="center">OlÃ¡, eu sou Heitor Coutinho ðŸ‘‹</h1>
+<h1 align="center">Olá¡, eu sou Heitor Coutinho ‘‹</h1>
 
 <p align="center">
   <em>Estudante de CiberseguranÃ§a Â· Do zero ao especialista Â· Campinas, Brasil</em>
